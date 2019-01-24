@@ -1,5 +1,7 @@
 # Flair_SOTA_NLP
- Use of FLAIR for the NLP  datasets
+Stay tuned for the use of FLAIR for the NLP  datasets in Google Colab Environment.
+In this repository I would be doing the NLP tasks using the FLAIR library and see the performance difference between Flair and FASTAI approach.
+
  
 Flair is:
 
@@ -11,6 +13,4 @@ FLAIR supports a rapidly growing number of languages. Flair also includes 'one m
 A text embedding library. Flair has simple interfaces that allow you to use and combine different word and document embeddings, including our proposed Flair embeddings, BERT embeddings and ELMo embeddings.
 
 This is a Pytorch NLP framework. Flair framework builds directly on Pytorch, making it easy to train your own models and experiment with new approaches using Flair embeddings and classes.
-
-In this repository I would be doing the NLP tasks using the FLAIR library and see the performance difference between Flair and FASTAI approach.
 
